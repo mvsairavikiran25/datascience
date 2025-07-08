@@ -23,3 +23,15 @@ Assignment-1/
 ├── README.md
 ├── task1_mathematical_operations.py
 ├── task2_personalized_greeting.py
+
+# Assignment 2: Control Structures in Python
+## Module 3: Control Structures in Python
+This repository contains the solution for Assignment 2 of Module 3, focusing on control structures in Python. 
+The assignment consists of two tasks that demonstrate the use of conditional statements and loops.
+#### Task 1: Check if a Number is Even or Odd
+#### Task 2: Sum of Integers from 1 to 50 Using a Loop
+
+assignment-2/
+├── README.md
+├── task1_even_odd.py
+├── task2_sum_loop.py

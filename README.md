@@ -58,3 +58,15 @@ assignment4/
 ├── README.md
 ├── task1_file_reading.py
 ├── task2_file_writing.py
+
+# Assignment 5: Data Structures and Strings in Python
+## Module 6: Data Structures and Strings in Python
+This repository contains solutions for Assignment 5, focusing on Python's built-in data structures,
+particularly dictionaries and lists, along with string manipulation techniques.
+### Task 1: Create a Dictionary of Student Marks
+### Task 2: Demonstrate List Slicing
+
+assignment5/
+├── README.md
+├── task1_student_marks.py
+├── task2_list_slicing.py

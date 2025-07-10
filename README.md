@@ -35,3 +35,15 @@ assignment-2/
 ├── README.md
 ├── task1_even_odd.py
 ├── task2_sum_loop.py
+
+# Assignment 3: Functions & Modules in Python
+## Module 4: Functions & Modules in Python
+This repository contains solutions for Assignment 3, focusing on implementing functions 
+and utilizing Python's built-in modules for mathematical calculations.
+### Task 1: Calculate Factorial Using a Function
+### Task 2: Using the Math Module for Calculations
+
+assignment3/
+├── README.md
+├── task1_factorial.py
+├── task2_math_module.py

@@ -47,3 +47,14 @@ assignment3/
 ├── README.md
 ├── task1_factorial.py
 ├── task2_math_module.py
+
+# Assignment 4: Files, Exceptions, and Errors in Python
+## Module 5: Files, Exceptions, and Errors in Python
+This repository contains solutions for Assignment 4, focusing on file handling operations and robust error management in Python applications.
+### Task 1: Read a File and Handle Errors
+### Task 2: Write and Append Data to a File
+
+assignment4/
+├── README.md
+├── task1_file_reading.py
+├── task2_file_writing.py
